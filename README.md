@@ -20,6 +20,6 @@ Nesta experiência você utilizará o circuito 74181, que foi inicialmente utili
 **Relatório 5a  -->**
 O Arduino (será parte da ULA)
 Você trabalhou com uma unidade lógica aritmética de 4 bits (74181), nas próximas aulas você irá construir um programa que executará todas as instruções dessa ULA. Na verdade, seu programa irá ler um outro programa e irá executá-lo fora da máquina.
-**Relatório 5b --> **
+**Relatório 5b -->**
 Relatório Lab. AC II – ULA 4 bits + Arduino
 Neste exercício, assim como o anterior, você deverá criar 2 programas. Um no hardware externo (Arduino) e outro no PC, que será a interface com o usuário. A idéia é ler um programa escrito pelo usuário, transformá-lo em mnemônicos gerando outro programa e finalmente passá-lo ao Hardware externo através da porta serial e realizar algum processamento nesse Hardware. O resultado será observado nos 4 Leds conectados no Hardware externo.
